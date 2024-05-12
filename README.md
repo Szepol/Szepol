@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+⚡ I’m an avid learner about anything that touches deployment automation and data science ⚡
+
+*This user profile is managed using Terraform* \
+*<sub>Why? Because it's impossible to overengineer your GitHub profile!</sub>*
 <!--
-**szepol/Szepol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Szepol/Szepol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
